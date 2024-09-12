@@ -1,25 +1,32 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-  <h3 align="center">Reactive Architecture</h3>
+  <h1 align="center">Reactive Architecture</h1>
 
   <p align="center">
-    Notes about building Reactive Systems using the Reactive Architecture
+    A comprehensive guide on building Reactive Systems using Reactive Architecture principles.
     <br />
+    <a href="https://github.com/lorenzomaiuri-dev/ReactiveArchitecture/issues">Report an Issue</a> ·
+    <a href="https://github.com/lorenzomaiuri-dev/ReactiveArchitecture/pulls">Submit a Pull Request</a>
   </p>
+  
 </div>
 
-## Table of contents
+## Table of Contents
 
-- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
 - [Units](#units)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+<!-- INTRODUCTION -->
+## Introduction
+
+Reactive Architecture is a set of principles and patterns for building responsive, resilient, and elastic systems. This repository provides an in-depth guide to help you design and implement Reactive Systems.
 
 <!-- UNITS -->
 ## Units
@@ -34,15 +41,17 @@
 <!-- LICENSE -->
 ## License
 
-Distributed under the [MIT License](./LICENSE)
+This project is licensed under the [MIT License](./LICENSE).
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-- [Choose an Open Source License](https://choosealicense.com)
+- [Choose an Open Source License](https://choosealicense.com) - For license selection guidance.
 
 <!-- LINKS & IMAGES -->
-[stars-shield]: https://example.org
-[stars-url]: https://example.org
-[license-shield]: https://example.org
-[license-url]: https://example.org
+[stars-shield]: https://img.shields.io/github/stars/lorenzomaiuri-dev/ReactiveArchitecture?style=social
+[stars-url]: https://github.com/lorenzomaiuri-dev/ReactiveArchitecture/stargazers
+[license-shield]: https://img.shields.io/badge/license-MIT-blue
+[license-url]: https://opensource.org/licenses/MIT
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white
+[linkedin-url]: https://it.linkedin.com/in/lorenzo-maiuri-9a7472244
