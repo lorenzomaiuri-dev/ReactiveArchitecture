@@ -46,7 +46,12 @@ This project is licensed under the [MIT License](./LICENSE).
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-- [Choose an Open Source License](https://choosealicense.com) - For license selection guidance.
+Acknowledgments to projects and tools that inspired or supported this work:
+
+- [Akka](https://github.com/akka/akka): For actor-based concurrency model inspiration
+- [Reactive Manifesto](https://www.reactivemanifesto.org/) for its solid principles
+- Special thanks to the work of Martin Fowler on [Microservices](https://martinfowler.com/articles/microservices.html).
+
 
 <!-- LINKS & IMAGES -->
 [stars-shield]: https://img.shields.io/github/stars/lorenzomaiuri-dev/ReactiveArchitecture?style=social
